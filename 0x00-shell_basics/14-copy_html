@@ -1,2 +1,2 @@
 #!/bin/bash
-find tmp -name "*.html" -exec cp {} / 
+cp *.html /
